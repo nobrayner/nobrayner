@@ -16,3 +16,5 @@ Like all good heroines and heros, I'm on a quest; a quest to solve real user pro
 ## Stats
 
 [![Braydon's Github Stats](https://github-readme-stats.vercel.app/api?username=nobrayner&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Braydon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrayner)](https://github.com/anuraghazra/github-readme-stats)
