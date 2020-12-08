@@ -7,7 +7,8 @@ Like all good heroines and heros, I'm on a quest; a quest to solve real user pro
 ![React Testing Library Badge](https://img.shields.io/badge/Tools-React%20Testing%20Library-lightgrey?style=flat&logo=react)
 ![Yarn Badge](https://img.shields.io/badge/Tools-Yarn-lightgrey?style=flat&logo=yarn)
 ![Vim Badge](https://img.shields.io/badge/Tools-Vim-lightgrey?style=flat&logo=vim)
-![Vim Badge](https://img.shields.io/badge/Tools-VS%20Code-lightgrey?style=flat&logo=visual-studio-code)
+![VSCode Badge](https://img.shields.io/badge/Tools-VS%20Code-lightgrey?style=flat&logo=visual-studio-code)
+![Figma Badge](https://img.shields.io/badge/Tools-Figma-lightgrey?style=flat&logo=figma&logoColor=white)
 
 ![TypeScript Badge](https://img.shields.io/badge/Langs-TypeScript-lightgrey?style=flat&logo=typescript)
 ![JavaScript Badge](https://img.shields.io/badge/Langs-JavaScript-lightgrey?style=flat&logo=javascript)
