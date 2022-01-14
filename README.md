@@ -1,6 +1,6 @@
 # Hi, I'm Braydon Hall 👋
 
-Like all good heroines and heros, I'm on a quest; a quest to solve real user problems, with software that looks good, works well, and takes a backseat to getting the real work done. I'll be trading out magic for technology, arcane words for syntax, and various spell components for a nice IDE and frameworks - all to better myself to further my quest.
+Like all good heroines and heros, I'm on a quest; a quest to solve real user problems, with software that looks good, works well, and takes a backseat to getting the real work done. I'll be trading out magic for technology, arcane words for syntax, and various spell components for a nice IDE and frameworks.
 
 ## Stats
 
