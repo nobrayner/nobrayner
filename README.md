@@ -5,4 +5,4 @@ Like all good heroines and heros, I'm on a quest; a quest to solve real user pro
 ## Stats
 
 [![Braydon's Github Stats](https://github-readme-stats.vercel.app/api?username=nobrayner&hide=stars&count_private=true&show_icons=true&hide_rank=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Braydon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrayner&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Braydon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobrayner&layout=compact&langs_count=6&theme=dark&exclude_repo=verge-3d-memory-leak-repro)](https://github.com/anuraghazra/github-readme-stats)
